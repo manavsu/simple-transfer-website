@@ -1,6 +1,6 @@
 # Simple Transfer Website
 
-A simple website to ease the pain of send your friends big video files. The project is build with html and css served with an apache server in a docker container.
+A simple website to ease the pain of send your friends big video files. The project is built with html served with apache in a docker container.
 
 ## Usage
 Ports can be configured in the docker-compose.yml file. A volume is used to store the files that will be served. Make sure the mount point is correct. You copy of releavent files using the `docker cp` command.
