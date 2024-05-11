@@ -1,6 +1,6 @@
 services:
-  simplewebsite:
-    image: simplewebsite
+  simpletransferwebsite:
+    image: simpletransferwebsite
     build:
       context: .
       dockerfile: ./Dockerfile
