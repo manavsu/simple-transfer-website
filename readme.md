@@ -17,4 +17,4 @@ The following segment was added to `httpd.conf` to allow basic authentication fo
     Require user wolly
 </Directory>
 ```
-Use 'docker compose up' to run.
+Use `docker compose up` to run.
